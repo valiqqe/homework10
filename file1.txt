@@ -1,0 +1,10 @@
+name age
+Alice 25
+Bob 30
+Charlie 22
+David 40
+Eva 28
+Frank 35
+Grace 26
+Harry 32
+Ivy 29
